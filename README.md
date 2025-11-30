@@ -34,6 +34,10 @@ dotnet ef database update
 dotnet run
 Accede a la app en: https://localhost:7236
 
+5- Pasos para registrarse
+Dentro de la pagina tienes que registrarte como un nuevo usuario y agregar un correo junto a una constraseña valida
+una vez registrado ya puedes iniciar sesion con el usuario que creaste
+
 Tecnologías utilizadas
 
 ASP.NET Core 7.0
