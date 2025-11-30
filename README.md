@@ -1,5 +1,6 @@
 Proyecto ASP.NET Core – Lista de Tareas
 
+
 Este proyecto fue desarrollado durante el talle de  "Uso de ASP.NET Core" y consiste en una aplicación web usando el patrón Modelo-Vista-Controlador (MVC).
 
 Funcionalidades
